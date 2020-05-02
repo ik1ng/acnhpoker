@@ -877,7 +877,7 @@ namespace acnhpoker
                 return;
             }
 
-            utilities.SpawnRecipe(s, selectedSlot, "16A2", recipeNum.Text);
+            utilities.SpawnRecipe(s, selectedSlot, "16A1", recipeNum.Text);
 
             this.ShowMessage(recipeNum.Text);
 
